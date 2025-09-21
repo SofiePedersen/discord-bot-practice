@@ -1,0 +1,24 @@
+{
+  "name": "praktikbot",
+  "version": "0.0.1",
+  "description": "This is a bot meant to help find internships through LinkedIns postings (educational purposes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Educational",
+    "LinkedIn",
+    "Intern",
+    "Internship",
+    "Student",
+    "Sturdentwork",
+    "Node.js",
+    "JS",
+    "Javascript",
+    "ECMA6+",
+    "Scripting"
+  ],
+  "author": "Sofie Pedersen",
+  "license": "ISC"
+}
